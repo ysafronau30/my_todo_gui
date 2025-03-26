@@ -1,4 +1,4 @@
-Create new feature and smile
+Create a new feature and smile
 Hello world and python
-This is my todo
+This is my project
 Wash the car
