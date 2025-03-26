@@ -1,4 +1,4 @@
-print new
-close the eyes my eyesclose the eyes
-Create new feature
-Print new doc and restartClean
+Create new feature and smile
+Hello world and python
+This is my todo
+Wash the car
